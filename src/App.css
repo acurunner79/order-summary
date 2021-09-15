@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: gray;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-image: url("https://res.cloudinary.com/acurunner79/image/upload/v1631735312/pattern-background-desktop_csi7vu.svg");
 }
