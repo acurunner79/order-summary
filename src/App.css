@@ -12,10 +12,10 @@ a{
 
 #main-container{
   max-width: 337px;
-  height: 75vh;
+  height: 590px !important;
   background-color: white;
   border-radius: 18px;
-  margin: 80px auto;
+  margin: 70px auto;
 }
 
 #hero-image{
@@ -57,7 +57,7 @@ a{
 #button-container{
   display: flex;
   flex-direction: column;
-  margin: 40px auto;
+  margin: 30px auto;
 }
 
 .button{
